@@ -1,7 +1,14 @@
 # Test Cricket Strategy Analytics (Case Study)
 
 ## 1. Project overview
-This case study uses men’s Test match data (match-level and ball-by-ball) to explore what drives winning outcomes and how those insights can inform team strategy. The focus is on turning raw match data into guidance for selection, bowling combinations, and match tactics.
+
+The analysis uses publicly available men’s Test match data sourced from Cricsheet.  
+The datasets cover international Test matches played between all major cricketing nations, spanning from the beginning of Test cricket in 1877 up to matches played in 2025.
+
+Two datasets are used:
+- A match-level dataset containing summary information such as teams, venues, match results, and toss decisions
+- A ball-by-ball dataset containing delivery-level details to support deeper player and performance analysis
+
 
 **Stakeholder scenario:**  
 A Test team wants to improve results by grounding decisions in data rather than intuition. The project looks at:
