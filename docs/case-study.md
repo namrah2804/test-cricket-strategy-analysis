@@ -49,7 +49,7 @@ Insights, however, are generalisable to other teams, enabling comparative analys
 
 ---
 
-##3 **Scope and segmentation:**
+## 3 **Scope and segmentation:**
 To ensure depth and flexibility, the analysis will be segmented along key dimensions:
 
 - By team: each major Test nation (with England as the main example).
